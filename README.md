@@ -1,9 +1,5 @@
 # KENSHI
 
-![GitHub code search count](https://img.shields.io/github/search)
-
-
-
 ## Mes Projets
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
