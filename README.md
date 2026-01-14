@@ -1,6 +1,7 @@
 # KENSHI
 
-![GitHub top language](https://img.shields.io/github/languages/top/kenshivagabond/:repo)
+![GitHub code search count](https://img.shields.io/github/search)
+
 
 
 ## Mes Projets
