@@ -1,6 +1,7 @@
 # KENSHI
 
-![LanguageStats](https://github-readme-stats.vercel.app/api/top-langs/?username=kenshivagabond&layout=compact)
+![GitHub top language](https://img.shields.io/github/languages/top/kenshivagabond/:repo)
+
 
 ## Mes Projets
 
