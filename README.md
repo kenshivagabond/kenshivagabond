@@ -7,7 +7,8 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technologie** | 🚀 **Projet** |
 |------------------|-------------|
-| ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) | [![Parseur Web](https://img.shields.io/badge/Parseur--Web-GitHub-black?style=plastic&logo=github)](https://github.com/kenshivagabond/parseur-web) |
+| ![Shell](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) | [![Parseur Web](https://img.shields.io/badge/Parseur--Web-GitHub-black?style=plastic&logo=github)](https://github.com/kenshivagabond/parseur-web) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | [![FR-Pendu-Python](https://img.shields.io/badge/FR--Pendu--Python-GitHub-black?style=plastic&logo=github)](https://github.com/kenshivagabond/FR-PENDU-PYTHON) |
+
 
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
