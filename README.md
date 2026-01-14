@@ -5,8 +5,9 @@
 ## Mes Projets
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technologie** | 🚀 **Projet** | 
-| - | - |
-![Shell](https://img.shields.io/badge/:badgeContent?style=plastic&logo=Linux) | [![Parseur Web](https://img.shields.io/badge/:badgeContent?style=plastic&logo=github)](https://github.com/kenshivagabond/parseur-web) |
+| 💻 **Technologie** | 🚀 **Projet** |
+|------------------|-------------|
+| ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) | [![Parseur Web](https://img.shields.io/badge/Parseur--Web-GitHub-black?style=plastic&logo=github)](https://github.com/kenshivagabond/parseur-web) |
+
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
