@@ -7,6 +7,6 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technologie** | 🚀 **Projet** | 
 | - | - |
-![Shell](https://img.shields.io/badge/:badgeContent?style=plastic&logo=Linux) | ![Parseur Web](https://img.shields.io/badge/:badgeContent?style=plastic&logo=github)(https://github.com/kenshivagabond/parseur-web) |
+![Shell](https://img.shields.io/badge/:badgeContent?style=plastic&logo=Linux) | [![Parseur Web](https://img.shields.io/badge/:badgeContent?style=plastic&logo=github)](https://github.com/kenshivagabond/parseur-web) |
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
